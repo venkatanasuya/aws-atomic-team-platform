@@ -1,0 +1,13 @@
+{
+  "request_id": "req-payments-dev-001",
+  "resource_type": "s3_bucket",
+  "team_name": "payments",
+  "team_owner": "payments-platform@example.com",
+  "application_name": "payments-api",
+  "environment": "dev",
+  "project": "atomic-team-demo",
+  "cost_center": "CC-1001",
+  "region": "us-east-1",
+  "bucket_suffix": "payments-dev-demo-001",
+  "purpose": "Development artifacts for the Payments API"
+}

@@ -1,0 +1,13 @@
+# Example only. The request processor generates a temporary tfvars file.
+aws_region  = "us-east-1"
+aws_profile = "fde-dev"
+bucket_name = "replace-with-globally-unique-bucket-name"
+tags = {
+  Team        = "payments"
+  TeamOwner   = "payments-platform@example.com"
+  Application = "payments-api"
+  Environment = "dev"
+  Project     = "atomic-team-demo"
+  CostCenter  = "CC-1001"
+  RequestId   = "req-payments-dev-001"
+}

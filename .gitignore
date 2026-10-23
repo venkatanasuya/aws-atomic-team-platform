@@ -1,0 +1,16 @@
+.terraform/
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.plan
+*.tfvars
+*.tfvars.json
+crash.log
+crash.*.log
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.aws/
+.DS_Store

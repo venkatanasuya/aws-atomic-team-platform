@@ -1,0 +1,12 @@
+{
+  "request_id": "req-invalid-001",
+  "resource_type": "s3_bucket",
+  "team_name": "payments",
+  "application_name": "payments-api",
+  "environment": "dev",
+  "project": "atomic-team-demo",
+  "cost_center": "CC-1001",
+  "region": "us-east-1",
+  "bucket_suffix": "payments-dev-invalid-001",
+  "purpose": "Example invalid request; team_owner is intentionally missing"
+}
